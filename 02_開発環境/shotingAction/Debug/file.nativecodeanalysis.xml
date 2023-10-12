@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>file.cpp</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>戻り値が無視されました: 'fscanf'</DESCRIPTION>
+    <FUNCTION>CFile::MapLoad</FUNCTION>
+    <DECORATED>?MapLoad@CFile@@SAJPBDW4TYPE@1@PAUWave@CBlockManager@@PAH@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>file.cpp</FILENAME>
+      <LINE>64</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>戻り値が無視されました: 'fscanf'</DESCRIPTION>
+    <FUNCTION>CFile::MapLoad</FUNCTION>
+    <DECORATED>?MapLoad@CFile@@SAJPBDW4TYPE@1@PAUWave@CBlockManager@@PAH@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>file.cpp</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>戻り値が無視されました: 'fscanf'</DESCRIPTION>
+    <FUNCTION>CFile::MapLoad</FUNCTION>
+    <DECORATED>?MapLoad@CFile@@SAJPBDW4TYPE@1@PAUWave@CBlockManager@@PAH@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>file.cpp</FILENAME>
+      <LINE>71</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>戻り値が無視されました: 'fscanf'</DESCRIPTION>
+    <FUNCTION>CFile::MapLoad</FUNCTION>
+    <DECORATED>?MapLoad@CFile@@SAJPBDW4TYPE@1@PAUWave@CBlockManager@@PAH@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>file.cpp</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>戻り値が無視されました: 'fscanf'</DESCRIPTION>
+    <FUNCTION>CFile::MapLoad</FUNCTION>
+    <DECORATED>?MapLoad@CFile@@SAJPBDW4TYPE@1@PAUWave@CBlockManager@@PAH@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>file.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>戻り値が無視されました: 'fscanf'</DESCRIPTION>
+    <FUNCTION>CFile::MapLoad</FUNCTION>
+    <DECORATED>?MapLoad@CFile@@SAJPBDW4TYPE@1@PAUWave@CBlockManager@@PAH@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

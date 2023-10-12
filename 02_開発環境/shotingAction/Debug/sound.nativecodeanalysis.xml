@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>sound.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>戻り値が無視されました: 'CoInitializeEx'</DESCRIPTION>
+    <FUNCTION>CSound::Init</FUNCTION>
+    <DECORATED>?Init@CSound@@QAEJPAUHWND__@@@Z</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

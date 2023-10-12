@@ -1,0 +1,5 @@
+﻿  renderer.cpp
+c:\users\student\desktop\プログラマー提出\unico_entry\02_開発環境\shotingaction\renderer.cpp(214): warning C4101: 'pTextureWk': ローカル変数は 1 度も使われていません。
+c:\users\student\desktop\プログラマー提出\unico_entry\02_開発環境\shotingaction\renderer.cpp(213): warning C4101: 'pRenderWk': ローカル変数は 1 度も使われていません。
+  DirectxProject001.vcxproj -> C:\Users\student\Desktop\プログラマー提出\unico_Entry\02_開発環境\shotingAction\Debug\DirectxProject001.exe
+  DirectxProject001.vcxproj -> C:\Users\student\Desktop\プログラマー提出\unico_Entry\02_開発環境\shotingAction\Debug\DirectxProject001.pdb (Full PDB)

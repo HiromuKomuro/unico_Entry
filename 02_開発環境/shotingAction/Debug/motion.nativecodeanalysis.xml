@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>motion.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>関数はスタックの '98560' バイトを使用します: /analyze:stacksize '16384' を超えています。この割り当ては、コンパイラで生成された 'CMotion::INFO' の一時用でした (行 17)。 データの一部をヒープに移動することを考慮してください。</DESCRIPTION>
+    <FUNCTION>CMotion::{ctor}</FUNCTION>
+    <DECORATED>??0CMotion@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>motion.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>関数はスタックの '98560' バイトを使用します: /analyze:stacksize '16384' を超えています。この割り当ては、コンパイラで生成された 'CMotion::INFO' の一時用でした (行 17)。 データの一部をヒープに移動することを考慮してください。</DESCRIPTION>
+    <FUNCTION>CMotion::{ctor}</FUNCTION>
+    <DECORATED>??0CMotion@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\student\downloads\c++\11_小室大夢\shotingaction\</FILEPATH>
+      <FILENAME>motion.cpp</FILENAME>
+      <LINE>159</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>関数はスタックの '98564' バイトを使用します: /analyze:stacksize '16384' を超えています。 データの一部をヒープに移動することを考慮してください。</DESCRIPTION>
+    <FUNCTION>CMotion::SetInfo</FUNCTION>
+    <DECORATED>?SetInfo@CMotion@@QAEXUINFO@1@@Z</DECORATED>
+    <FUNCLINE>159</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
